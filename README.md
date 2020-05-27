@@ -1,2 +1,2 @@
 # abandoned-pilot-rescue-system
-me and my team created this project for technological training in IAF
+me and my team created this project for technological training in our organization. 
